@@ -5,7 +5,7 @@
 
 Wiki:
 - SLF4J [по-русски](https://ru.wikipedia.org/wiki/Slf4J)
-- SLF4J [по-американски](https://en.wikipedia.org/wiki/SLF4J)
+- SLF4J :uk:[по-американски](https://en.wikipedia.org/wiki/SLF4J)
 
 Прикольные статейки:
 - [Think again before adopting the commons-logging API](http://articles.qos.ch/thinkAgain.html) от разрабов Log4j
